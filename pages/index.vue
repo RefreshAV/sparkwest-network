@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        sparkwest-network
+        Sparkwest Network
       </h1>
       <div class="links">
         <a
